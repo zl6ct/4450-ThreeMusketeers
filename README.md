@@ -12,4 +12,4 @@ visual studio code 2017
 
 #how to run the interpreter
 open the file with visual studio code 2017, run the makefile with command in visual studio, you might need open with administrator and install this https://chocolatey.org/install
-than run the make and run makefile
+than run the make and run ./ThreeMusketeers filename
